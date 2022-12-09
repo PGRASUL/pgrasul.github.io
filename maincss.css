@@ -1,0 +1,30 @@
+body {
+    background-color: greenyellow;
+}
+
+h1 {
+    color: black;
+    margin: auto;
+    font-size: 300%;
+}
+
+.neqr {
+    display: table;
+    background-color: black;
+    color: white;
+    font-size: 200%;
+}
+
+.tunarjimage {
+    width: 150px;
+    height: 150px;
+}
+
+.omar {
+    font-size: 200%;
+}
+
+.omarimage {
+    width: 150px;
+    height: 150px;
+}
