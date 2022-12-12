@@ -15,7 +15,7 @@ h1 {
     font-size: 200%;
 }
 
-.tunarjimage {
+.tunarj {
     width: 150px;
     height: 150px;
 }
@@ -25,6 +25,15 @@ h1 {
 }
 
 .omarimage {
+    width: 150px;
+    height: 150px;
+}
+
+.rauf {
+    font-size: 200%;
+}
+
+.raufimage {
     width: 150px;
     height: 150px;
 }
